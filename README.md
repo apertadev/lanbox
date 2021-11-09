@@ -8,6 +8,7 @@
 ## Planned features
 
 * Ability to serve DHCP requests (kea dhcp)
+  * Support both IPv4 & IPv6
   * Support for handling switch tftp boot protocol (<https://github.com/dhtech/swboot>)
   * Support for captive portal to force login before access to internet
 * Ability to serve DNS requests (PowerDNS)
@@ -23,3 +24,4 @@
 * Ability to serve gameservers (unkown)
   * Supply through Admin portal
   * Supply through User selfservice portal
+  * Support for backing up gameserver
